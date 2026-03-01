@@ -18,6 +18,7 @@ dependencies = [
   "pandas",
   "matplotlib",
   "seaborn",
+  "holoviews",
   "scipy",
   "scikit-learn",
   "ipywidgets",
